@@ -1,0 +1,77 @@
+body {
+    background-color: #CACACA;
+    font-family: 'Montserrat', sans-serif;
+}
+.header-container {
+    display: flex;
+    padding: 0 20px;
+}
+
+.page-title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header {
+    background-color: #E0CAD5;
+    border: solid 2px;
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 600px;
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15%;
+    width: 300px;
+
+}
+ .redes-sociais img {
+    height: 50px;
+ }
+
+h1 {
+    background-color: #E0CAD5;
+    border: solid 2px; 
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+    
+}
+
+.contexto-dois-container {
+    
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.contexto-dois {
+    background-color: #E0CAD5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px; 
+    border-radius: 10px;
+    width: fit-content; 
+    padding-left: 5px;
+}
+
+.contexto-tres-container {
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+
+.contexto-tres {
+    background-color: #D6C7C1;
+    border:solid 2px;
+    border-radius: 11px;
+    width: 600px;
+    padding-left: 10px;
+    margin-left: 22px;
+}
+
